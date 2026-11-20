@@ -1,8 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<?xml version="1.0" encoding="utf-8"?><rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
 <channel>
 <title>СДК ст. Даховская</title>
 <link>https://github.com/as9104242260-commits/smm-feed</link>
 <description>Посты СДК</description>
-<item><title>Первый пост</title><description>Добро пожаловать в RSS-ленту СДК Даховская!</description><link>https://example.com/photo1.jpg</link><pubDate>Wed, 18 Nov 2026 21:53:06 +0000</pubDate></item><item><title>Второй пост - Тест</title><description>Проверка работоспособности всех методов</description><link>https://example.com/photo2.jpg</link><pubDate>Wed, 18 Nov 2026 21:54:37 +0000</pubDate></item><item><title>🥋 Занятия в СДК начинаются!</title><description>С новой недели начинаются регулярные занятия в спортивном клубе СДК ст. Даховская. Приглашаем всех желающих присоединиться к нашей дружной команде карате. Тренировки проводятся три раза в неделю по вторникам, четвергам и субботам.</description><link>https://example.com/photo.jpg</link><pubDate>Wed, 18 Nov 2026 22:00:00 +0000</pubDate></item></channel>
+<item><title>Первый пост</title><description>Добро пожаловать в RSS-ленту СДК Даховская!</description><link>https://example.com/photo1.jpg</link><pubDate>Wed, 18 Nov 2026 21:53:06 +0000</pubDate></item><item><title>Второй пост - Тест</title><description>Проверка работоспособности всех методов</description><link>https://example.com/photo2.jpg</link><pubDate>Wed, 18 Nov 2026 21:54:37 +0000</pubDate></item><item><title>🥋 Занятия в СДК начинаются!</title><description>С новой недели начинаются регулярные занятия в спортивном клубе СДК ст. Даховская. Приглашаем всех желающих присоединиться к нашей дружной команде карате. Тренировки проводятся три раза в неделю по вторникам, четвергам и субботам.</description><link>https://example.com/photo.jpg</link><pubDate>Wed, 18 Nov 2026 22:00:00 +0000</pubDate></item><item><title>🚩 Парта Героя 🚩</title><description>🚩 Парта Героя 🚩
+
+18 ноября в "ОЦ № 5" прошёл концерт "Парта Героя". 😊 Совместно со школой сотрудники СДК создали светлое событие. Кадеты в парадной форме держали портреты героев — людей, отдавших жизни ради Родины. На сцене стояли молодые серьёзные лица, берущие ответственность помнить и чтить защитников.
+
+Зал полон: родители, ребята, жители села. В каждом взгляде — благодарность и гордость. "Парта Героя" — символ того, что каждый может стать героем через верность долгу и служение. 💛
+
+Фото: кадеты с портретами, сцена, зрители.</description><pubDate>Fri, 20 Nov 2026 14:18:01 +0000</pubDate><guid isPermaLink="false">dg-dakhovskaya-parta-geroya-202611201717</guid><enclosure url="https://raw.githubusercontent.com/as9104242260-commits/smm-feed/main/images/коллаж_MAX.png" type="image/jpeg" length="0" /><media:content url="https://raw.githubusercontent.com/as9104242260-commits/smm-feed/main/images/коллаж_MAX.png" type="image/jpeg" medium="image" /></item></channel>
 </rss>
